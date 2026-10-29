@@ -1,7 +1,6 @@
 streamlit
 pandas
 duckdb
-plotly
 python-dotenv
 google-genai
 openpyxl
