@@ -8,7 +8,7 @@ ao Programa de Estágio GenAI do iFood (trilha AI Engineer).
 
 ## 🔗 Demonstração
 
-**App publicado:** _(link será adicionado após a publicação no Streamlit Community Cloud)_
+**App publicado:** https://ifood-genai-assistente-dados-ekwup27dnvk4nnaynyvbwd.streamlit.app/
 
 ![Demonstração do app](docs/demo.gif)
 
