@@ -3,5 +3,5 @@ pandas
 duckdb
 plotly
 python-dotenv
-anthropic
+google-genai
 openpyxl
